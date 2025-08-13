@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matan\\Desktop\\ex5\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\models\\todo.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\models\\todo.model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|c:\\users\\matan\\desktop\\ex5\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F83ABCC-8544-4C70-B960-7CC22285021F}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:06:24.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:34:02.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "backend\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:25:35.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:23:05.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Data\\TodoContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Data\\TodoContext.cs",
+              "RelativeToolTip": "backend\\Data\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:17:23.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T17:09:58.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T17:09:53.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.model.cs",
+              "DocumentMoniker": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Models\\Todo.model.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Todo.model.cs",
+              "ToolTip": "C:\\Users\\matan\\Desktop\\ex5\\backend\\backend\\Models\\Todo.model.cs",
+              "RelativeToolTip": "backend\\Models\\Todo.model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T17:03:29.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
